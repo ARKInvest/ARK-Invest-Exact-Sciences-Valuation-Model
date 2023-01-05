@@ -29,4 +29,3 @@ For full disclosures, please go to: https://ark-invest.com/terms-of-use.
 While ARK’s current assessment of the subject company may be positive, please note that it may be necessary for ARK to liquidate or reduce position sizes prior to the company attaining any indicated valuation prices due to a variety of conditions including, 
 but not limited to, client specific guidelines, changing market conditions, investor activity, fundamental changes in the company’s business model and competitive landscape, headline risk, and government/regulatory activity.  
 Additionally, ARK does not have investment banking or consulting relationship with the subject company.
-![image](https://user-images.githubusercontent.com/49050316/210678773-44e66ef7-9209-4fa3-b9b0-91a8f23ba66a.png)
