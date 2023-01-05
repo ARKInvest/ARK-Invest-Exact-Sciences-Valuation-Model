@@ -9,6 +9,10 @@ You may not use the material for commerical purposes without first obtaining wri
 This valuation tool is meant to help determine the value of a single security, Exact Sciences (EXAS), over a five (5) year time horizon. The model works by allowing users to select and/or alter inputs that may affect the resulting output.
 This model is inherently limited by its nature, including the assumption of perfectly efficient markets. ARK has used its research to determine what it believes are reasonable ranges for input variables contained within the model. 
 Please refer to the associated Exact Sciences whitepaper for additional information on the assumptions, methodology, and limitations of the model. The results may vary with each use of the model and over time. 
+
+https://ark-invest.com/articles/valuation-models/ark-exact-sciences-model-2027/
+
+
 This model relies on historical information of the modeled security, including publicly available financial data and analysis of that data by ARK and by third-parties. Some input values were derived from scientific fact. 
 The reader is urged to use caution when considering the forecasted performance as it is inherently subjective and reflects ARK's long term positive view of the company.
 There is no guarantee that any results will align with the forecasted performance. This tool generates outcomes that are hypothetical in nature.
