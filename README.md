@@ -1,4 +1,4 @@
-# Exact-Sciences-EXAS-
+# ARK Invest Exact Sciences Valuation Model
 This repository contains a five-year valuation model for Exact Sciences (EXAS) and an associated ReadMe file with relevant disclosures.
 
 This work is licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License. 
