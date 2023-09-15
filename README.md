@@ -1,4 +1,7 @@
 # ARK Invest Exact Sciences Valuation Model
+
+*__The information presented reflects the views and assumptions of the authors at the time of publication. Please note that this research is at least one year old and the authors' current views may materially differ from those presented without notice. The results will not be updated as ARK's internal models change, or any information upon which ARK relies upon changes.__*
+
 This repository contains a five-year valuation model for Exact Sciences (EXAS) and an associated ReadMe file with relevant disclosures.
 
 This work is licensed under a Creative Commons Attribution-Non-Commercial 4.0 International License. 
